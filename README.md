@@ -1,3 +1,3 @@
-# Basic Web Template
+# JS Evercise one:
 
-This is a basic web template for projects. After cloning this is to the local computer remember to change the origin with $ git remote set-url origin ..... 
+Exploring different datatype in JavaSript as well as function and methods. 
